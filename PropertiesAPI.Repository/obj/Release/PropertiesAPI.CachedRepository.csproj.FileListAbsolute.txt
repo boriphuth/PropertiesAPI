@@ -1,0 +1,8 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Release\PropertiesAPI.Repository.dll.config
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Release\PropertiesAPI.Repository.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Release\PropertiesAPI.Repository.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Release\PropertiesAPI.Contracts.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Release\PropertiesAPI.Contracts.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\obj\Release\PropertiesAPI.CachedRepository.csprojResolveAssemblyReference.cache
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\obj\Release\PropertiesAPI.Repository.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\obj\Release\PropertiesAPI.Repository.pdb

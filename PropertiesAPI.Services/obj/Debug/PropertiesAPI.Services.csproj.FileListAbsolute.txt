@@ -1,0 +1,13 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\Castle.Windsor.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\Castle.Core.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\Castle.Windsor.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Contracts.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Repository.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Contracts.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Repository.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\Castle.Core.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\obj\Debug\PropertiesAPI.Services.csprojResolveAssemblyReference.cache
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\obj\Debug\PropertiesAPI.Services.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\obj\Debug\PropertiesAPI.Services.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Services.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Services\bin\Debug\PropertiesAPI.Services.pdb

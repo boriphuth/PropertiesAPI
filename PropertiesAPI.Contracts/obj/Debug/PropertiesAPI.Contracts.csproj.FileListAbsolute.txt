@@ -1,0 +1,4 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Contracts\bin\Debug\PropertiesAPI.Contracts.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Contracts\bin\Debug\PropertiesAPI.Contracts.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Contracts\obj\Debug\PropertiesAPI.Contracts.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Contracts\obj\Debug\PropertiesAPI.Contracts.pdb

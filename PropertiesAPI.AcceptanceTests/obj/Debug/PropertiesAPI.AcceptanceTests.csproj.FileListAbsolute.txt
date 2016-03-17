@@ -1,0 +1,12 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.dll.config
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\nunit.framework.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\RestSharp.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\nunit.framework.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\RestSharp.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\PropertiesAPI.AcceptanceTests.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\PropertiesAPI.AcceptanceTests.pdb

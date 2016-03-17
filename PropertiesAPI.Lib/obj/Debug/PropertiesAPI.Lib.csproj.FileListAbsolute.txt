@@ -1,0 +1,9 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\PropertiesAPI.Lib.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\PropertiesAPI.Lib.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\RestSharp.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\bin\Debug\RestSharp.xml
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\obj\Debug\PropertiesAPI.Lib.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\obj\Debug\PropertiesAPI.Lib.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Lib\obj\Debug\PropertiesAPI.Lib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Debug\PropertiesAPI.Repository.dll.config
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Debug\PropertiesAPI.Repository.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\bin\Debug\PropertiesAPI.Repository.pdb
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\obj\Debug\PropertiesAPI.Repository.dll
+C:\Users\vzotali\Documents\Visual Studio 2015\Projects\PropertiesAPI\PropertiesAPI.Repository\obj\Debug\PropertiesAPI.Repository.pdb
